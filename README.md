@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview
 
-This project is an AI-based Emotion Detection web application developed using the IBM Watson NLP library. The application analyzes user input text and detects emotions such as **joy, anger, sadness, fear, and disgust**, along with the dominant emotion.
+This Final project is an AI-based Emotion Detection web application developed using the IBM Watson NLP library. The application analyzes user input text and detects emotions such as **joy, anger, sadness, fear, and disgust**, along with the dominant emotion.
 
 ---
 
